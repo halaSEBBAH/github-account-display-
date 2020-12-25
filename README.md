@@ -1,6 +1,5 @@
-# Simple react app that extracts data from Github API
+## Simple react app that extracts data from Github API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Run page
 
